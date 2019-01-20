@@ -1,0 +1,13 @@
+#optimg.sh
+#depends:
+
+imagemagick
+libjpeg-progs
+gifsicle
+pngnq
+pngcrush
+optipng
+advancecomp
+coreutils
+
+#end

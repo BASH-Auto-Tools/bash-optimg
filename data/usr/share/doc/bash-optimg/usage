@@ -1,0 +1,17 @@
+ Bash-script for optimize images:
+  optimizing images (jpg | gif | png) without losing quality:
+
+$ bash-optimg image.[png|gif|jpg|jpeg]
+$ bash-optimg-all
+
+  optimizing images (jpg | gif | fast png) without losing quality:
+
+$ bash-optimg-fast image.[png|gif|jpg|jpeg]
+$ bash-optimg-fast-all
+
+  optimizing images (jpg | gif | fast png 256 color) without losing quality:
+
+$ bash-optimg-256 image.[png|gif|jpg|jpeg]
+$ bash-optimg-256-all
+
+# Made in Russia.

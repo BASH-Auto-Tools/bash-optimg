@@ -1,0 +1,20 @@
+Package: bash-optimg
+Version: 20141223
+Architecture: all
+Maintainer: zvezdochiot <zvezdochiot@users.sourceforge.net>
+Section: utils
+Priority: optional
+Installed-Size: 64
+Depends: imagemagick, libjpeg-progs, gifsicle, pngcrush, optipng, advancecomp, pngnq, bc, coreutils
+Homepage: http://mykaralw.narod.ru/
+Description: Bash-script for optimize images.
+ Bash-script for optimize images:
+  optimizing images (jpg | gif | png) without losing quality:
+    bash-optimg image.[png|gif|jpg|jpeg]
+    bash-optimg-all
+  optimizing images (jpg | gif | fast png) without losing quality:
+    bash-optimg-fast image.[png|gif|jpg|jpeg]
+    bash-optimg-fast-all
+  optimizing images (jpg | gif | fast png 256 color) without losing quality:
+    bash-optimg-256 image.[png|gif|jpg|jpeg]
+    bash-optimg-256-all
